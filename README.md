@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SailajaBandaru
+- 👀 I’m interested in Software Engineering, Data Science, Full Stack Development, and building scalable applications.
+- 🌱 I’m currently learning advanced software engineering practices, system design, and improving my skills in data science, machine learning, and software development.
+- 💞️ I’m looking to collaborate on data science projects, machine learning applications, software development, and open-source contributions.
+- 📫 How to reach me You can contact me through my LinkedIn profile or email at sailajabandaru2002@gmail.com.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I once built a predictive model for lung cancer monitoring using SVM and CNN algorithms.
